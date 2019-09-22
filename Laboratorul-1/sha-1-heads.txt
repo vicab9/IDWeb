@@ -1,0 +1,10 @@
+715482ea646b23fa27b948e56f71a4a025a9d115 refs/heads/PHP
+d5d3c5e1bf931dda730356d3afa897b94f5c624a refs/heads/Golang
+0e1c1b7413465e40ebe892bd2579bd0e585f21a5 refs/heads/C#
+c415d036ef13a825a4b95bb12bbba9f98e1f6057 refs/heads/Swift
+e95b227b183e05f9e1aaa60e890e93a999f72bab refs/heads/ Ruby
+e45912efb4017f5c761efbaefe0cb0824f312127 refs/heads/Java
+a98906e8798cf2e38eb0c44011c7b5e136c028ae refs/heads/Javascript
+0491fa91e1440fcc2218480398d5c2fced952a57 refs/heads/C++
+6e12bae4c675b790e3257d7c16de41de7826c1d0 refs/heads/C
+ad620716d923653fbf475ab091f57fb53d15b494 refs/heads/Python
